@@ -1,0 +1,14 @@
+
+
+CALL SYSPROC.ADMIN_MOVE_TABLE( 
+'SVALENTI', 
+'T1', 
+'ACCOUNTING',
+'ACCOUNTING',
+'ACCOUNTING',
+'', 
+'', 
+'', 
+'',
+'',
+'MOVE')
